@@ -1,3 +1,5 @@
+/* Author: Juan Carlos Jimenez Caballero */
+
 /* Given the custom 1-Wire protocol used by the DHT sensors, we need to bit-bang
  * its implementation. Bit-banging is -by nature- sensitive to timing issues.
  * I've found it to be particularly sensitive to WiFi and networking interrupts.

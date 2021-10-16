@@ -1,3 +1,5 @@
+/* Author: Juan Carlos Jimenez Caballero */
+
 #ifndef DHT_SENSOR_H_
 #define DHT_SENSOR_H_
 
